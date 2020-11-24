@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#01859B</color>
+    <color name="colorAccent">#00BCD4</color>
+
+
+    //cores dispesas
+    <color name="colorPrimaryDispesas">#FF706A</color>
+    <color name="colorPrimaryDarkDispesas">#E66560</color>
+    <color name="colorAccentDispesa">#FF706A</color>
+
+    //cores Receita
+    <color name="colorPrimaryReceita">#00D39E</color>
+    <color name="colorPrimaryDarkReceita">#00BE8B</color>
+    <color name="colorAccentReceita">#00D39E</color>
+</resources>
